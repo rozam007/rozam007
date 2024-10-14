@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rozam007&label=Profile%20views&color=0e75b6&style=flat" alt="rozam007" /> </p>
 
 
-- 🌱 I’m currently learning **Sassy css**
+- 🌱 I’m currently learning **Sassy cs**
 
 - 💬 Ask me about **MERN, Nextjs, Nestjs, postgreSql and prisma**
 
