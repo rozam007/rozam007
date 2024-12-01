@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rozam007&label=Profile%20views&color=0e75b6&style=flat" alt="rozam007" /> </p>
 
 
-- 🌱 I’m currently learning **Kubernetes**
+- 🌱 I’m currently learning **Kubernete**
 
 - 💬 Ask me about **MERN, Nextjs, Nestjs, postgreSql and prisma**
 
